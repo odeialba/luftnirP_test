@@ -1,0 +1,21 @@
+{
+    "name": "odeialba/printful",
+    "description": "Remote Technical Developer Task (v2.1)",
+    "authors": [
+        {
+            "name": "Odei Alba",
+            "email": "odeialba@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "classmap": [
+            "printful/"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
